@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.text-conatiner {
+  display: flex;
+  flex: row;
+  justify-content: space-around;
+}
+.bg-conatiner{
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 100vh;
+}
+.header-with-filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.conatiner{
+ 
+  margin-left: 60px;
+}
